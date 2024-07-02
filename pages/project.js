@@ -14,6 +14,7 @@ const Project = ({ href, title, description }) => {
               fill="none"
               viewBox="0 0 24 24"
               stroke="currentColor"
+              alt="Project icon"
             >
               <path
                 strokeLinecap="round"
