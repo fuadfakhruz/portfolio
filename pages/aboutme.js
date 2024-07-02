@@ -1,7 +1,7 @@
 // pages/index.js
-import Navbar from "./components/navbar";
-import Background from "./components/background";
-import ExperienceCard from "./components/about";
+import Navbar from "./navbar";
+import Background from "./background";
+import ExperienceCard from "./about";
 
 export default function Home() {
   return (

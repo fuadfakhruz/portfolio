@@ -1,6 +1,6 @@
-import Navbar from "./components/navbar";
-import Background from "./components/background";
-import Project from "./components/project";
+import Navbar from "./navbar";
+import Background from "./background";
+import Project from "./project";
 
 export default function Projects() {
   return (

@@ -1,6 +1,6 @@
 // pages/index.js
-import Navbar from "./components/navbar";
-import Background from "./components/background";
+import Navbar from "./navbar";
+import Background from "./background";
 import Image from "next/image";
 
 export default function Home() {

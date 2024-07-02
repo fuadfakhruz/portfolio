@@ -1,8 +1,8 @@
 // pages/index.js
-import Navbar from "./components/navbar";
-import Background from "./components/background";
-import Hero from "./components/hero";
-import MyComponent from "./components/button";
+import Navbar from "./navbar";
+import Background from "./background";
+import Hero from "./hero";
+import MyComponent from "./button";
 
 export default function Home() {
   return (
