@@ -1,4 +1,3 @@
-// File: components/Card.js
 import Link from "next/link";
 
 const Project = ({ href, title, description }) => {
