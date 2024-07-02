@@ -1,13 +1,6 @@
 import Image from "next/image";
-import Link from "next/link";
-import { Button } from "@nextui-org/button";
-import MyComponent from "./button";
 
 export default function Hero() {
-  const butt = [
-    { name: "cekaku", href: "/projects" },
-    { name: "hubungi", href: "/contact" },
-  ];
   return (
     <div className="hero" id="home">
       <div className="container mx-auto -mt-2">
