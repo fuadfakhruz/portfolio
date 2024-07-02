@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#list {
+  font-family: "Inter", sans-serif;
+}
+#list1 {
+  font-family: "Inter", sans-serif;
+}
+
+#list2 {
+  font-family: "Inter", sans-serif;
+}
+
+#list3 {
+  font-family: "Inter", sans-serif;
+}
+
+#list4 {
+  font-family: "Inter", sans-serif;
+}
